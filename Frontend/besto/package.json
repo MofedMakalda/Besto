@@ -5,7 +5,7 @@
   "type": "module",
 "scripts": {
   "dev": "vite",
-  "qrcode": "node -e \"require('qrcode-terminal').generate('http://192.168.1.222:3000');\""
+  "qrcode": "node -e \"require('qrcode-terminal').generate('https://stately-otter-e733b6.netlify.app/');\""
 },
 
   "dependencies": {
