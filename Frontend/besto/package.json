@@ -8,6 +8,7 @@
   "build": "vite build",  
   "serve": "vite preview", 
   "qrcode": "node -e \"require('qrcode-terminal').generate('https://bestomenu.netlify.app/');\""
+
 },
 "dependencies": {
     "@emotion/react": "^11.13.3",
